@@ -66,6 +66,12 @@ section div button{
     cursor: pointer;
     width: fit-content;
     height: fit-content;
+    border:1px solid white;
+}
+section div button:hover{
+    color:#35794F;
+    background-color: white;
+    border: 1px solid black;
 }
 .rightpart{
     display: flex;
